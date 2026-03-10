@@ -19,7 +19,9 @@
 
 ## 📸 Preview
 
-> Light theme with green branding, sortable table, modals, and Excel export.
+![Student Records Management System UI](screentshot/SR-fronted.png)
+
+> Light theme with green branding — **S R Integrated Circuit India** | Developed by **Archit Yadav**
 
 ---
 
