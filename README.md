@@ -2,6 +2,7 @@
 
 <div align="center">
 # 🎓 Student Records Management System
+  
 ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A)
 ![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a2e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
