@@ -11,7 +11,7 @@
 **A full-featured student management table built with React + Vite**
 *Developed by **Archit Yadav** for S R Integrated Circuit India*
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
+[Live Demo](https://student-records-mangement-system-frontend-54v34tprn.vercel.app/) · [Report Bug](#) · [Request Feature](#)
 
 </div>
 
