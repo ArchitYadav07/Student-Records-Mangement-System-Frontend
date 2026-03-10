@@ -142,7 +142,7 @@ npm run build
 ## 👨‍💻 Author
 
 **Archit Yadav**
-*S R Integrated Circuit India*
+
 
 ---
 
